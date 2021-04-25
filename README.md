@@ -1,2 +1,2 @@
 # carlosruizascacibar.github.io
-Personal blogjj
+Personal blog
